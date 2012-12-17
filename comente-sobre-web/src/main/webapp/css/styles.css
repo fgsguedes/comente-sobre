@@ -1,0 +1,7 @@
+.error {
+    color: #B94A48;
+}
+
+input[type="text"].error, textarea.error {
+    border: 1px solid #B94A48;
+}
